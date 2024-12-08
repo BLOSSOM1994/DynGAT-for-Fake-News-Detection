@@ -61,3 +61,8 @@ which will be published in the journal <strong>International Journal of Web Rese
 <strong>Affiliation:</strong> Department of Computer Engineering, Faculty of Computer Engineering and Electrical Engineering, Shahid Bahonar Technical and Vocational University, Shiraz, Iran<br>
 <strong>Email:</strong> <a href="mailto:shekufeh.j@gmail.com">shekufeh.j@gmail.com</a>
 </p>
+
+<p>
+For more information, visit the <a href="https://ijwr.usc.ac.ir/" target="_blank"><strong>International Journal of Web Research</strong></a>.
+</p>
+
