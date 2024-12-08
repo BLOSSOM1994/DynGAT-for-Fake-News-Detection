@@ -6,7 +6,7 @@ designed for detecting fake news on social media platforms. DynGAT leverages the
 social networks to model evolving interactions between users and news sources.
 </p>
 <p align="center">
-  <img src="pipeline.png" alt="DynGAT Model Pipeline" width="200">
+  <img src="pipeline.png" alt="DynGAT Model Pipeline" width="400">
 </p>
 
 <h2>Model Highlights</h2>
