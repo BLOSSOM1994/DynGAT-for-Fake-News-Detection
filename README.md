@@ -51,7 +51,7 @@ Clone this repository, explore the code, and adapt it for your research or pract
 <p>
 This repository is associated with the research article titled: 
 <strong>"Dynamic Graph Attention Network with Sentiment Analysis for Fake News Detection in Social Networks"</strong>, 
-which will be published in the journal <strong>Web Research</strong>.
+which will be published in the journal <strong>International Journal of Web Research</strong>.
 </p>
 <p>
 <strong>1st Author:</strong> Fatemeh Jokar (Corresponding Author)<br>
