@@ -5,6 +5,9 @@ This repository provides the implementation of the <strong>Dynamic Graph Attenti
 designed for detecting fake news on social media platforms. DynGAT leverages the dynamic graph structure of 
 social networks to model evolving interactions between users and news sources.
 </p>
+<p align="center">
+  <img src="DynGAT-for-Fake-News-Detection/pipeline.png" alt="DynGAT Model Pipeline" width="200">
+</p>
 
 <h2>Model Highlights</h2>
 <ul>
